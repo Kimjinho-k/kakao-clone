@@ -1,2 +1,3 @@
-# kakao-clone
-kakao clone 
+# Kakao Clone NEW!
+
+My first time Kakao Clone :)
